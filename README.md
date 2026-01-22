@@ -47,6 +47,7 @@ I hold a degree in **Systems Analysis and Development (FATEC-SP)** and a bachelo
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![LDAP](https://img.shields.io/badge/LDAP-Directory-blue?style=for-the-badge)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
   
   
