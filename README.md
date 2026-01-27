@@ -4,7 +4,7 @@
 
 ## 👋Hi there!
 
-I'm Wes Mantovani, a software engineer with strong experience in **Python-based full stack development** and **Linux infrastructure**, currently working in **High-Performance Computing (HPC)** environments at Instituto Butantan.
+I'm Wes, a software engineer with strong experience in **Python-based full stack development** and **Linux infrastructure**, currently working in **High-Performance Computing (HPC)** environments at Instituto Butantan.
 
 I design, build, and maintain **scalable backend systems**, **RESTful APIs**, and **asynchronous processing pipelines**, frequently operating in **critical production environments** that handle large-scale scientific and biological data.
 
